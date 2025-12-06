@@ -1,6 +1,6 @@
 # Hi, I'm Abdo 👋
 
-Full-stack developer building fast, reliable web applications.
+web developer building fast, reliable web applications.
 
 ---
 
