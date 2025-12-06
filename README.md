@@ -1,6 +1,6 @@
 # Hi, I'm Abdo 👋
 
-web developer building fast, reliable web applications.
+An Engineer building fast, reliable web applications.
 
 ---
 
