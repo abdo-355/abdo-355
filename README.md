@@ -19,7 +19,7 @@ An Engineer building fast, reliable web applications.
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-355&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdo-355&theme=highcontrast&border_radius=6&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ---
 
